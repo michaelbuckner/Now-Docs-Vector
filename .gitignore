@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+env/
+ENV/
+venv/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# # Vector Database
+# chroma_db/
+# *.db
+# *.sqlite
+# *.sqlite3
+
+# Indexing artifacts
+indexing_stats.json
+indexing_summary.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Temporary files
+*.tmp
+temp/
+test_doc_temp.md

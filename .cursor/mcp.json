@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "servicenow_docs": {
+      "command": "python3",
+      "args": ["/Users/mike/Documents/code/now_docs_vectorized/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/Users/mike/Documents/code/now_docs_vectorized"
+      }
+    }
+  }
+}
+
+
